@@ -1,4 +1,4 @@
-<div align = "center">
+
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Frontend%20Dev&desc=YongGyu%20Park&fontAlignY=50&descAlignY=67&descAlign=57&fontColor=3583FA&fontSize=55&descSize=35&reversal=false)
 
 
