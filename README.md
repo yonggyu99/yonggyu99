@@ -61,4 +61,3 @@
 <!-- 하단 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ff7f50&height=100&section=footer)
 
-</div>
