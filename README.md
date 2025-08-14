@@ -35,7 +35,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Mongo](https://img.shields.io/badge/mongodb-#7A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongo](https://img.shields.io/badge/mongodb-7A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
