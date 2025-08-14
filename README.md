@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Frontend%20Developer-nl-YongGyu%20Park&fontSize=44&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Frontend%20Developer-nl-YongGyu%20Park&fontSize=44&fontColor=ffffff&animation=fadeIn)
 
 ## 👋 Hello!
 저는 **FrontEnd Developer**로, 사용자 경험을 높이는 UI/UX와 성능 최적화에 관심이 많습니다.  
