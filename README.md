@@ -33,7 +33,9 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
+<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Mongo](https://img.shields.io/badge/mongodb-#7A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -43,21 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**GitPulse**](https://github.com/younggyu99/GitPulse) | GitHub 활동 분석 및 챌린지 플랫폼 | React, Node.js, MongoDB |
-| [**ItPlace**](https://github.com/younggyu99/itplace-front) | 카카오맵 기반 멤버십 혜택 플랫폼 | React, TypeScript, GSAP |
-
----
-
 ## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![mail](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:yoyo5411@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@yourvelog)
-
----
-
-<!-- 하단 배너 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9370db,100:ff7f50&height=100&section=footer)
 
