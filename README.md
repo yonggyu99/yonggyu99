@@ -14,16 +14,15 @@
 ## 🛠 Tech Stack
 ### **Frontend**
 
-![HTML](https://img.shields.io/badge/-[html5]-[#E34F26]?style=flat&logo=[html5])
+![HTML](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 <br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Redux](https://img.shields.io/badge/-[redux]-[#764ABC]?style=flat&logo=[redux])
+![Redux](https://img.shields.io/badge/-redux-764ABC?style=flat&logo=redux)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 <br/>
-![CSS](https://img.shields.io/badge/-[css]-[#663399]?style=flat&logo=[css])
-![TailWind](https://img.shields.io/badge/-[tailwindcss]-[#06B6D4]?style=flat&logo=[tailwindcss])
-![SCSS](https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름])
+![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
+![TailWind](https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat&logo=tailwindcss)
 
 
 
