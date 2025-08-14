@@ -2,7 +2,8 @@
 
 
 ## 👋 Introduce
-안녕하세요! 도전을 두려워하지 않고 앞으로 끊임없이 나아가는 개발자 박용규 입니다!
+안녕하세요!
+도전을 두려워하지 않고 앞으로 끊임없이 나아가는 개발자 박용규 입니다!
 
 🌱 개발자로서의 가치관
 - 사용자 경험을 세심하게 설계하는 개발자
@@ -12,10 +13,21 @@
 
 ## 🛠 Tech Stack
 ### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+![HTML](https://img.shields.io/badge/-[html5]-[#E34F26]?style=flat&logo=[html5])
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Redux](https://img.shields.io/badge/-[redux]-[#764ABC]?style=flat&logo=[redux])
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+<br/>
+![CSS](https://img.shields.io/badge/-[css]-[#663399]?style=flat&logo=[css])
+![TailWind](https://img.shields.io/badge/-[tailwindcss]-[#06B6D4]?style=flat&logo=[tailwindcss])
+![SCSS](https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름])
+
+
+
+
 
 ### **Backend & ETC**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
