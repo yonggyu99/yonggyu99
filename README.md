@@ -1,7 +1,9 @@
-
+<!-- Venom 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=Frontend%20Developer&fontSize=42&fontColor=ffffff&fontAlign=20&animation=fadeIn)
 
-![subheader](https://capsule-render.vercel.app/api?type=venom&height=60&color=00000000&text=YongGyu%20Park&fontSize=24&fontColor=dddddd&fontAlign=20&fontAlignY=50)
+<!-- 왼쪽 정렬된 작은 텍스트 -->
+<p align="left" style="font-size:14px; color:#ddd;">YongGyu Park</p>
+
 
 ## 👋 Hello!
 저는 **FrontEnd Developer**로, 사용자 경험을 높이는 UI/UX와 성능 최적화에 관심이 많습니다.  
