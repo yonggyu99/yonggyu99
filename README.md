@@ -1,8 +1,4 @@
-<!-- Venom 배너 -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=Frontend%20Developer&fontSize=42&fontColor=ffffff&fontAlign=20&animation=fadeIn)
-
-<!-- 왼쪽 정렬된 작은 텍스트 -->
-<p align="left" style="font-size:14px; color:#ddd;">YongGyu Park</p>
+![header](https://capsule-render.vercel.app/api?type=soft&height=220&color=0D1117&text=Frontend%20Developer&fontSize=46&fontColor=86A8D7&desc=YongGyu%20Park&descSize=24&descAlign=50&descAlignY=66&animation=fadeIn)
 
 
 ## 👋 Hello!
