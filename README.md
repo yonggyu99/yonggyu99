@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Frontend%20Dev&desc=YongGyu%20Park&fontAlignY=50&descAlignY=67&descAlign=57&fontColor=3583FA&fontSize=55&descSize=35&reversal=false)
 
 
-## 👋 Hello!
-저는 **FrontEnd Developer**로, 사용자 경험을 높이는 UI/UX와 성능 최적화에 관심이 많습니다.  
-React와 TypeScript를 주로 사용하며, 새로운 기술과 도전을 즐깁니다.  
+## 👋 Introduce
+안녕하세요! 도전을 두려워하지 않고 앞으로 끊임없이 나아가는 개발자 박용규 입니다!
 
+🌱 개발자로서의 가치관
+- 사용자 경험을 세심하게 설계하는 개발자
+- 문제 해결을 즐기고 끝까지 파고드는 개발자
+- 팀과 함께 성장하는 것을 중요하게 생각하는 개발자
 ---
 
 ## 🛠 Tech Stack
